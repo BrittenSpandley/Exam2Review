@@ -4,9 +4,9 @@
 
 ### Make a:
 
-print statement
-int
-double
+print statement,
+int,
+double,
 string
 
 ```java
